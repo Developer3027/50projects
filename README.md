@@ -7,3 +7,6 @@ This is just the base project files set up to make completing the course easier.
 
 #### Expanding Cards
 This is a quick, neat project that is a set of divs with background images. A active class is created with css and either added or removed from the div upon click with javascript. This active class will expand the size of the div and show a h3 placed within the div. Transitions and opacity values are addressed in css.
+
+#### Progress Steps
+This is a simple little line movement from one to four steps. Click the next button and the line progress from 1 to 2. Great for forms, carts, tests to indicate the progress being made.
