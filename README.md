@@ -16,3 +16,6 @@ This project is a fantastic concept on navigation. It is a mocked up article tha
 
 #### Search Widget
 This is a simple hidden input and search button. The search button is 50 pixel square with the search icon. Clicking the button opens and reveals the search input, moving the button right while exposing the input left. Focus is placed on the input once open.
+
+#### Focus
+In this project we set a image to full screen in a section. We set a number in the center of that image. We then use javascript to blur the image and bring it into focus while a count down runs and fades out. The image goes from blur to focus in the same time that the count down goes from 0 to 100.
