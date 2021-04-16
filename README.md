@@ -19,3 +19,6 @@ This is a simple hidden input and search button. The search button is 50 pixel s
 
 #### Focus
 In this project we set a image to full screen in a section. We set a number in the center of that image. We then use javascript to blur the image and bring it into focus while a count down runs and fades out. The image goes from blur to focus in the same time that the count down goes from 0 to 100.
+
+#### Scroll Animation
+This project brings in content blocks from the left or right while scrolling. As you scroll down the content blocks will be brought in as room becomes available. On scrolling up the blocks will be removed.
