@@ -13,3 +13,6 @@ This is a simple little line movement from one to four steps. Click the next but
 
 #### Rotating Navigation
 This project is a fantastic concept on navigation. It is a mocked up article that has a circle placed just off the top left corner so you only see the pie section with the bars icon. Clicking the bars to open the menu will rotate the article and reveal the menu that slides in at the same angle as the page rotates. The only javascript here is to add and remove the show-nav class! Nearly everything is css.
+
+#### Search Widget
+This is a simple hidden input and search button. The search button is 50 pixel square with the search icon. Clicking the button opens and reveals the search input, moving the button right while exposing the input left. Focus is placed on the input once open.
