@@ -16,7 +16,8 @@ body {
 
 .container {
   display: flex;
-  width: 90vw;
+  max-width: 1000px;
+  width: 80vw;
 }
 
 .panel {
@@ -42,7 +43,7 @@ body {
 }
 
 .panel.active {
-  flex: 5;
+  flex: 3.5;
 }
 
 .panel.active h3 {

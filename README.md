@@ -10,3 +10,6 @@ This is a quick, neat project that is a set of divs with background images. A ac
 
 #### Progress Steps
 This is a simple little line movement from one to four steps. Click the next button and the line progress from 1 to 2. Great for forms, carts, tests to indicate the progress being made.
+
+#### Rotating Navigation
+This project is a fantastic concept on navigation. It is a mocked up article that has a circle placed just off the top left corner so you only see the pie section with the bars icon. Clicking the bars to open the menu will rotate the article and reveal the menu that slides in at the same angle as the page rotates. The only javascript here is to add and remove the show-nav class! Nearly everything is css.
